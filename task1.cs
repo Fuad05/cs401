@@ -1,16 +1,15 @@
 using System;
-using System.Collections.Generic;
 using System.Text;
 
-namespace ilkin
+namespace fuad
 {
     public class Car
     {
         public string Brand;
         public string Model;
-        public float CurrentFuel;
-        public float FuelFor1Km;
-        public float Millage;
+        public int CurrentFuel;
+        public int FuelFor1Km;
+        public int Millage;
      
 
 
